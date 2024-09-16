@@ -1,0 +1,4 @@
+1;98765432;newPass123%;Bruno Diaz
+1;87654321;securePass456%;Julio Diaz
+1;76543210;pass789%!;Sandra Diaz
+1;65432109;strongPass999%;Rosa Diaz
